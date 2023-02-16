@@ -21,7 +21,6 @@ public class MenuTest extends TestBase{
         HomeObject.AboutClick();
         Thread.sleep(1000);
         driver.navigate().back();
-        HomeObject.ClickMenuBtn();
         HomeObject.Logout();
         Thread.sleep(2000);
 

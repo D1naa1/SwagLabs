@@ -7,7 +7,7 @@
             <class name = "Tests.LoginTest"/>
             <class name = "Tests.HomeTest"/>
             <class name = "Tests.CartTest"/>
-            <class name = "Tests.CartTest"/>
+            <class name = "Tests.MenuTest"/>
         </classes>
     </test>
 </suite>
